@@ -1,12 +1,12 @@
 Restaurant price prediction
 
-Project Description
+*Project Description
 This project is about analyzing restaurant data to predict restaurant ratings and recommend restaurants to users.  
 It helps customers choose good restaurants and helps restaurant owners understand customer preferences.
 
 
 
- Features
+ *Features
 - Restaurant rating prediction
 - Restaurant recommendation
 - Data analysis and visualization
@@ -14,7 +14,7 @@ It helps customers choose good restaurants and helps restaurant owners understan
 
 
 
- Technologies Used
+ *Technologies Used
 - Python
 - Pandas
 - NumPy
@@ -23,9 +23,9 @@ It helps customers choose good restaurants and helps restaurant owners understan
 - Scikit-learn
 - Jupyter Notebook
 
----
 
- Project Structure
+
+ *Project Structure
 - Dataset folder contains restaurant data  
 - Notebook files contain data analysis and model implementation  
 - Model folder contains trained models  
@@ -33,7 +33,7 @@ It helps customers choose good restaurants and helps restaurant owners understan
 
 
 
- How the Project Works
+ *How the Project Works
 1. Load restaurant dataset  
 2. Clean and preprocess data  
 3. Analyze restaurant ratings  
@@ -42,7 +42,7 @@ It helps customers choose good restaurants and helps restaurant owners understan
 
 
 
- How to Run the Project
+ *How to Run the Project
 1. Download or clone this repository  
 2. Install required libraries  
 3. Open Jupyter Notebook  
@@ -50,7 +50,7 @@ It helps customers choose good restaurants and helps restaurant owners understan
 
 
 
- Result
+ *Result
 - Accurate prediction of restaurant ratings  
 - Useful restaurant recommendations  
 - Clear data analysis using graphs  
